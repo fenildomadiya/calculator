@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.center{
+height: 100vh !important;
+display: flex;
+align-items: center;
+}
+
+button{
+  padding: 10px !important;
+}
+.calci{
+  width: 400px !important;
+}
+.division{
+  height: 22px !important;
+  mix-blend-mode: hard-light !important; 
+}
+.shadow{
+  box-shadow: 0px 10px 90px red !important;
+  border-radius: 5% !important;
+}
